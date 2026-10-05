@@ -19,4 +19,4 @@ depends on the affected hardware or service being present.
 
 - [hjkl](https://github.com/kazuki-hanai/hjkl): a small Rust keyboard remapper for a semicolon-based navigation layer on macOS and Windows
 - [gh-create-github-app-token](https://github.com/kazuki-hanai/gh-create-github-app-token): generate a GitHub token from a GitHub App private key
-- [dotfiles](https://github.com/kazuki-hanai/dotfiles): my development environment
+- [dotfiles](https://github.com/kazuki-hanai/dotfiles): a [mise](https://mise.jdx.dev/)-based macOS and Ubuntu setup with one config for runtimes, tools, symlinks, and provisioning
