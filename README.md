@@ -1,10 +1,10 @@
 # hnkƶ
 
-Cybersecurity engineer working on Linux kernel, virtualization, and
-device-driver security. I use static analysis and KASAN to reproduce bugs,
-then write upstream fixes and stable backports.
+Cybersecurity Engineer with a background in platform security. These days I
+work across a broader range of security topics. Linux kernel research and
+upstream contributions are one part of that work.
 
-`Linux kernel` · `Vulnerability research` · `VMM / device security` · `Rust` · `Go` · `C`
+`Platform security` · `Security engineering` · `Vulnerability research` · `Rust` · `Go` · `C`
 
 ## Security research
 
