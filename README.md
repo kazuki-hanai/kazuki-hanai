@@ -4,8 +4,6 @@ Cybersecurity Engineer with a background in platform security. These days I
 work across a broader range of security topics. Linux kernel research and
 upstream contributions are one part of that work.
 
-`Platform security` · `Security engineering` · `Vulnerability research` · `Rust` · `Go` · `C`
-
 ## Security research
 
 | Achievement | Published severity | Impact |
