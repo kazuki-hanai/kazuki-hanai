@@ -15,6 +15,9 @@ I discovered, reproduced, and developed the upstream fixes for both issues.
 The scores above are from their published Linux CVE records; practical exposure
 depends on the affected hardware or service being present.
 
+I have also privately reported vulnerabilities to several blockchain projects.
+Those reports remain non-public.
+
 ## Selected projects
 
 - [hjkl](https://github.com/kazuki-hanai/hjkl): a small Rust keyboard remapper for a semicolon-based navigation layer on macOS and Windows
