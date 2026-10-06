@@ -8,8 +8,8 @@ upstream contributions are one part of that work.
 
 | Achievement | Published severity | Impact |
 | --- | --- | --- |
-| [CVE-2026-89970](https://www.cve.org/CVERecord?id=CVE-2026-89970) | **CVSS 9.8 · Critical** | A pre-auth network client could race NVMe-oF authentication teardown with timeout work, causing a kernel use-after-free and memory corruption on an exposed target. |
-| [CVE-2026-97931](https://www.cve.org/CVERecord?id=CVE-2026-97931) | **CVSS 7.0 · High** | With affected TASCAM hardware attached and access to its hwdep node, a local user could upgrade a read mapping and access adjacent kernel pages or trigger incorrect page freeing. |
+| [CVE-2026-89970](https://www.cve.org/CVERecord?id=CVE-2026-89970) | CVSS 9.8 (Critical) | A pre-auth network client could race NVMe-oF authentication teardown with timeout work, causing a kernel use-after-free and memory corruption on an exposed target. |
+| [CVE-2026-97931](https://www.cve.org/CVERecord?id=CVE-2026-97931) | CVSS 7.0 (High) | With affected TASCAM hardware attached and access to its hwdep node, a local user could upgrade a read mapping and access adjacent kernel pages or trigger incorrect page freeing. |
 
 I discovered, reproduced, and developed the upstream fixes for both issues.
 The scores above are from their published Linux CVE records; practical exposure
